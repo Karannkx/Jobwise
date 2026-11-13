@@ -1,0 +1,2 @@
+Placeholder so that the "docx/parts" folder exists inside the PyInstaller bundle.
+python-docx loads templates via "docx/parts/../templates/...", which fails if the folder is missing.

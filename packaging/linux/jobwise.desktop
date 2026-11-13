@@ -1,0 +1,11 @@
+[Desktop Entry]
+Type=Application
+Name=Jobwise
+GenericName=Job search and matching
+Comment=AI-powered job matching, resume analysis and candidate ranking
+Exec=jobwise
+Icon=jobwise
+Terminal=false
+Categories=Office;Utility;
+Keywords=job;resume;cv;recruitment;hr;ai;
+StartupWMClass=Jobwise
