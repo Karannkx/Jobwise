@@ -1,0 +1,16 @@
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.pytest_cache/
+build/
+dist/
+*.egg-info/
+.env
+secret.json
+*.db
+*.db-wal
+*.db-shm
+*.log
+.idea/
+.vscode/
