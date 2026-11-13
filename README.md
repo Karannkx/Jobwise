@@ -39,6 +39,14 @@ Jobwise is a sleek desktop assistant for recruiters and job seekers that turns r
 - 🧾 Exports actionable reports and candidate comparisons
 - 🛡️ Keeps decision support transparent and privacy-aware
 
+### ✨ See Jobwise in Action
+
+A quick glimpse into smarter hiring, better insights, and effortless candidate matching.
+
+<p align="center">
+  <img src="./Sample.png" alt="Jobwise Preview" width="100%">
+</p>
+
 ## 🧩 Core Features
 
 | Screen | What it does |
