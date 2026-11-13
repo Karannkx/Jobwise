@@ -257,7 +257,7 @@
     @media (max-width:720px) {
       :root { --edge:23px; }
       html { scroll-padding-top:78px; }
-      .masthead { position:relative; height:auto; }
+      .masthead { position:sticky; top:0; height:0; }
       .nav { width:calc(100% - 28px); min-height:58px; top:10px; padding:0 9px 0 14px; }
       .brand { font-size:16px; }
       .brand-icon { width:32px; height:32px; }
@@ -266,7 +266,7 @@
       .nav-links { position:absolute; top:calc(100% + 7px); left:0; right:0; display:grid; gap:3px; padding:0 10px; border:1px solid rgba(255,255,255,.13); border-radius:10px; background:#20241e; max-height:0; overflow:hidden; visibility:hidden; opacity:0; transition:max-height .3s var(--ease),padding .3s,opacity .2s,visibility .2s; }
       .nav-links.is-open { max-height:240px; padding:9px 10px; visibility:visible; opacity:1; }
       .nav-links a { min-height:42px; padding-inline:11px; font-size:14px; }
-      .hero { padding-top:73px; }
+      .hero { padding-top:92px; }
       .hero-top { grid-template-columns:1fr; gap:0; }
       .hero h1 { max-width:550px; margin-top:16px; font-size:clamp(48px,11vw,70px); }
       .hero-copy { max-width:440px; margin:0 0 19px; font-size:15px; }
